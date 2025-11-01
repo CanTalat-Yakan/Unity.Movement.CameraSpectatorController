@@ -49,7 +49,7 @@ A spectator‑style camera controller intended for scene navigation and debug vi
   - Single runtime component; no physics or character controller required
 
 ## Requirements
-- Unity 6000.0+ (per package manifest)
+- Unity 6000.0+
 - Legacy Input Manager axes present: "Mouse X", "Mouse Y", "Mouse ScrollWheel"
   - If using the new Input System only, these axes or equivalents must be provided/adapted
 
