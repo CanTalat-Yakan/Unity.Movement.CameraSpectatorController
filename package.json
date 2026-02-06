@@ -1,7 +1,7 @@
 {
-  "name": "com.unityessentials.cameraspectatorcontroller",
-  "version": "1.0.0",
-  "displayName": "Unity Movement CameraSpectatorController",
+  "name": "com.unityessentials.movement.camera.spectatorcontroller",
+  "version": "2.0.0",
+  "displayName": "Rendering Camera SpectatorController",
   "description": "This is a part of the UnityEssentials Ecosystem",
   "unity": "6000.0",
   "unityRelease": "",
